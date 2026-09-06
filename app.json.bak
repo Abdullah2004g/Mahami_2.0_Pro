@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "مهامي",
+    "slug": "mahami",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.abdullah.mahami",
+      "versionCode": 2,
+      "adaptiveIcon": {"backgroundColor":"#6C63FF"}
+    },
+    "plugins": ["expo-notifications"],
+    "extra": {"eas":{"projectId":"YOUR_EXPO_PROJECT_ID"}}
+  }
+}
